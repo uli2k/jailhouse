@@ -12,6 +12,7 @@
 *.dtb.*.tmp
 *.8
 .cache.mk
+.vscode
 Module.symvers
 modules.order
 driver/jailhouse.ko
